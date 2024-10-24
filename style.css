@@ -1,2 +1,9 @@
-body
-::backdrop__color: bisque
+body {
+     background-color: bisque;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    bottom: s;
+}
